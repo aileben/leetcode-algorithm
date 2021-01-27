@@ -1,4 +1,4 @@
-package io.github.algorithm;
+package io.github.algorithm.arr;
 
 public class MathArray {
 
